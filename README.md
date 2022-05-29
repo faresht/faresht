@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a shopping platform and delivery**
 
-- 🌱 I’m currently learning **View.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **faresht2@gmail.com**
 
